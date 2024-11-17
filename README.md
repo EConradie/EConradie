@@ -1,6 +1,6 @@
 # Welcome, I'm Erik Conradie!
 
-I'm a full-stack developer with a passion for creating interactive digital experiences. I graduated from OpenWindow, where I majored in Interactive Development. My journey has led me through various aspects of development, from front-end to back-end, with a keen interest in user experience and modern web technologies.
+I'm a full-stack developer with a passion for creating interactive digital experiences. I studying at OpenWindow, where I majored in Interactive Development. My journey has led me through various aspects of development, from front-end to back-end, with a keen interest in user experience and modern web technologies.
 
 ## Languages and Technologies
 
