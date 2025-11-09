@@ -72,7 +72,7 @@ I'm Erik, a full-stack developer passionate about creating engaging digital expe
 
 ## 🌐 Connect with Me
 
-- **Email**: 221147@virtualwindow.co.za
+- **Email**: erik.conradie@gmail.com
 
 ---
 
